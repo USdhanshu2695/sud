@@ -1,0 +1,6 @@
+public class MyJava{
+
+public class Master
+
+
+}
